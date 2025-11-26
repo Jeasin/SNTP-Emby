@@ -1,0 +1,21 @@
+# > Hulu*
+# > 来源@dler-io/Rules/Surge/Surge 3/Provider/Media/Hulu.list (https://github.com/dler-io/Rules/blob/main/Surge/Surge%203/Provider/Media/Hulu.list)
+IP-CIDR,8.28.124.0/23,no-resolve
+IP-CIDR,199.60.116.0/24,no-resolve
+IP-CIDR,199.200.48.0/22,no-resolve
+IP-CIDR,208.91.156.0/22,no-resolve
+IP-CIDR6,2620:100:3000::/40,no-resolve
+host-keyword,hulu.com
+HOST-KEYWORD,hulu.hb.omtrdc.net
+host-KEYWORD,hulu.sc.omtrdc.net
+HOST-keyword,huluad.com
+host-keyword,huluim.com
+host-keyword,hulumail.com
+host-keyword,huluqa.com
+host-keyword,hulustream.com
+host-keyword,cs428.wpc.edgecastcdn.net
+host-keyword,surrit,Sh-0.2x
+host-keyword,miss,Sh-0.2x
+host-keyword,cws-hulu.conviva.com
+host-keyword,hulu.com.c.footprint.net
+host-keyword,hulu.map.fastly.net
