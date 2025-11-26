@@ -1,10 +1,8 @@
 {
   "name":"Jeasin补充图标", "description":"没什么好说明的", 
   "icons":[
-# 开始
     {"name":"网易云音乐NetEase", "url":"https://raw.githubusercontent.com/Jeasin/Rules/main/icon/iconimg/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90NetEase.png"},
 
 
-# 结束    
     ]
 }
