@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,live-source-play.xhscdn.com,REJECT
 DOMAIN-SUFFIX,live-source-play-hs.xhscdn.com,REJECT
 DOMAIN-SUFFIX,live-source-play-hw.xhscdn.com,REJECT
 DOMAIN-SUFFIX,fe-video-qc.xhscdn.com,REJECT
+DOMAIN-SUFFIX,sns-video-qc.xhscdn.com,reject
+DOMAIN-SUFFIX,sns-video-hw.xhscdn.com,reject
+DOMAIN-SUFFIX,sns-video-bd.xhscdn.com,reject
