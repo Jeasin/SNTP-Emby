@@ -1,0 +1,8 @@
+# 屏蔽小红书首页视频，但可能没用
+host-suffix,live-play.xhscdn.com,REJECT
+host-suffix,live-play-hs.xhscdn.com,REJECT
+host-suffix,live-play-hw.xhscdn.com,REJECT
+host-suffix,live-source-play.xhscdn.com,REJECT
+host-suffix,live-source-play-hs.xhscdn.com,REJECT
+host-suffix,live-source-play-hw.xhscdn.com,REJECT
+host-suffix,fe-video-qc.xhscdn.com,REJECT
