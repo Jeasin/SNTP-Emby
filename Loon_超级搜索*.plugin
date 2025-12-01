@@ -42,8 +42,7 @@
 # trj xxx (Google 译至日)
 # yh  xxx (油猴搜索)
 
-
-
+#############################################
 
 # st  xxx (跳转到小火箭模块合集)
 # ln  xxx (跳转到loon插件合集)
@@ -51,28 +50,18 @@
 # sg  xxx(跳转到surge模块合集)
 # sh  xxx(跳转到stash覆写合集)
 
-
-
-
-
-
 # wx    xxx (微信)
 # up xxx (Unsplash)
 # sspai xxx (少数派站内搜索)
 # ssp   xxx (Google 搜索少数派)
 
-
-
 # so    xxx (Stack Overflow)
 # se    xxx (StackExchange)
 # wa    xxx (WolframAlpha)
 
-
 # zdm xxx (什么值得买)
 # jd  xxx (京东)
 # tb  xxx (淘宝)
-
-
 # gd  xxx (Google 搜索 Google Drive 资源)
 # tgd xxx (搜索 Google Drive 资源)
 # ph  xxx (PornHub)
@@ -91,18 +80,10 @@
 # tf xxx (google搜索Testflight)
 # mo xxx（莫离频道搜索）
 # tgm xxx（TG喵频道搜索）
-
 # es  xxx (Ecosia搜索)
-
 # wz  xxx (无追搜索)
-
-
-
 # ios  xxx (苹果应用搜索)
 #     xxx （无指令默认为 Google）
-
-
-
 
 
 
@@ -175,7 +156,7 @@
 ^https:\/\/duckduckgo.com\/\?q=gi\+([^&]+).+ https://www.google.com/search?&tbm=isch&q=$1 302
 ^https:\/\/duckduckgo.com\/\?q=bi\+([^&]+).+ https://cn.bing.com/search?q=$1 302
 ^https:\/\/duckduckgo.com\/\?q=ios\+([^&]+).+ https://www.qimai.cn/search/index/search/$1 302
-# ^https:\/\/duckduckgo.com\/\?q=([^&]+).+ https://www.google.com/search?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=([^&]+).+ https://www.google.com/search?q=$1 302
 
 
 [MITM]
