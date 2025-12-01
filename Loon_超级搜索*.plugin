@@ -91,7 +91,7 @@
 
 
 [URL Rewrite]
-# ^https:\/\/duckduckgo\.com\/\?q=ydx(?:\+|%20)([^&]+).+ https://yandex.com/search/?text=$1 302
+^https:\/\/duckduckgo\.com\/\?q=ydx(?:\+|%20)([^&]+).+ https://yandex.com/search/?text=$1 302
 ^https:\/\/duckduckgo\.com\/\?q=yx([^&]+).+ https://yandex.com/search?text=$1 302
 ^https:\/\/duckduckgo\.com\/\?q=tmdb(?:\+|%20)([^&]+).+ https://www.themoviedb.org/search?query=$1 302
 ^https:\/\/duckduckgo\.com\/\?q=imdb(?:\+|%20)([^&]+).+ https://www.imdb.com/find/?ref_=opensearch&q=$1 302
